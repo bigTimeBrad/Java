@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class box {
+public class practice {
 
 	public static void main(String[] args) {
 		
